@@ -1810,6 +1810,18 @@ body {
 .cid-qFJjrESoeF P {
   color: #232323;
 }
+.cid-qGP9FgkZw9 {
+  background: #ffffff;
+}
+.cid-qGP9FgkZw9 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qGP9FgkZw9 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qFJrqKpAu9 {
   padding-top: 135px;
   padding-bottom: 90px;
