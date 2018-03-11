@@ -1838,6 +1838,21 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qLXtEYC7Ab {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #232323, #232323);
+}
+@media (min-width: 992px) {
+  .cid-qLXtEYC7Ab .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qLXtEYC7Ab .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qK7yKBKkGr {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1962,6 +1977,54 @@ body {
 }
 .cid-qK7spyWhGp .mbr-author-desc {
   color: #232;
+}
+.cid-qLZXMzccis {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qLZXMzccis .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qLZXMzccis .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qLZu99uglP {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qLZu99uglP .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qLZu99uglP .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qLZu99uglP .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qLZu99uglP .team-item .item-image img {
+  width: 100%;
+}
+.cid-qLZu99uglP .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qLZu99uglP .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qLZu99uglP .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qLZu99uglP .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qLZu99uglP .team-item .item-caption {
+  background: #efefef;
 }
 .cid-qJsIs0ofnR {
   padding-top: 90px;
